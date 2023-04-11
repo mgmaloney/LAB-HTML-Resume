@@ -17,6 +17,12 @@ li {
   font-size: 24px;
 }
 
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
 #NSS {
   border: solid black 1px;
   margin: 5px;
